@@ -138,17 +138,6 @@ ImageName=#@#icons/png/ClearDay.png
 W=64
 H=64
 ```
-
----
-
-## 🎨 Design Details
-
-- **Color Palette**: Vibrant gradients with carefully selected color stops
-- **Stroke Width**: Consistent stroke weights for visual harmony
-- **ViewBox**: Standard 64×64 viewBox for easy scaling
-- **Gradients**: Linear gradients for depth and modern aesthetics
-- **File Size**: Optimized SVG files (average ~1-2KB per icon)
-
 ---
 
 ## 📋 Icon Mapping Guide
