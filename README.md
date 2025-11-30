@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-blue.svg)
 ![Format](https://img.shields.io/badge/Format-SVG%20%7C%20PNG-green.svg)
-![Icons](https://img.shields.io/badge/Icons-14-orange.svg)
+![Icons](https://img.shields.io/badge/Icons-15-orange.svg)
 
 **A beautiful, modern collection of weather icons for your projects**
 
@@ -16,7 +16,7 @@
 
 ## ✨ Features
 
-- 🎨 **14 Unique Weather Conditions** - Comprehensive coverage of common weather states
+- 🎨 **15 Unique Weather Icons** - Comprehensive coverage of common weather states plus fallback
 - 📐 **Dual Format Support** - Available in both SVG (vector) and PNG (raster) formats
 - 🌓 **Day & Night Variants** - Separate icons for daytime and nighttime conditions
 - 🎯 **Optimized & Clean** - Lightweight SVG files with gradient fills for visual depth
@@ -49,6 +49,11 @@
 | **Snow** | `Snow.svg` |
 | **Thunderstorm** | `ThunderStorm.svg` |
 
+### ❓ Fallback
+| Icon | File |
+|------|------|
+| **Not Available** | `NA.svg` |
+
 ---
 
 ## 📦 What's Included
@@ -64,6 +69,7 @@ NuraShade-WeatherIcons/
 │   ├── FreezingRain.svg
 │   ├── MainlyClearDay.svg
 │   ├── MainlyClearNight.svg
+│   ├── NA.svg
 │   ├── Overcast.svg
 │   ├── PartlyCloudyDay.svg
 │   ├── PartlyCloudyNight.svg
@@ -80,6 +86,7 @@ NuraShade-WeatherIcons/
 │   ├── FreezingRain.png
 │   ├── MainlyClearDay.png
 │   ├── MainlyClearNight.png
+│   ├── NA.png
 │   ├── Overcast.png
 │   ├── PartlyCloudyDay.png
 │   ├── PartlyCloudyNight.png
@@ -164,6 +171,7 @@ Use this table to map weather codes to icons:
 | Freezing rain | 56, 57, 66, 67 | `FreezingRain.svg` |
 | Snow | 71, 73, 75, 77, 85, 86 | `Snow.svg` |
 | Thunderstorm | 95, 96, 99 | `ThunderStorm.svg` |
+| Data unavailable | N/A | `NA.svg` |
 
 *WMO Weather interpretation codes (as used by Open-Meteo and similar APIs)
 
