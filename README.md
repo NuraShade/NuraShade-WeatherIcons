@@ -211,14 +211,6 @@ While modifications cannot be redistributed due to the NoDerivatives clause, we 
 
 ---
 
-## 💬 Support
-
-If you encounter any issues or have questions:
-- Open an [issue](../../issues)
-- Check existing [discussions](../../discussions)
-
----
-
 ## 🌟 Acknowledgments
 
 Created with ❤️ by **NuraShade**
